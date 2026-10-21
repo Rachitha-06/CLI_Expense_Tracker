@@ -1,0 +1,67 @@
+[
+  {
+    "id": "a1b2c3d4",
+    "type": "income",
+    "amount": "25000.00",
+    "category": "Internship",
+    "date": "2026-10-01",
+    "description": "October internship stipend",
+    "payment_method": "Bank Transfer",
+    "tags": ["stipend"],
+    "notes": "Fictional sample data",
+    "created_at": "2026-10-01T09:00:00",
+    "updated_at": "2026-10-01T09:00:00"
+  },
+  {
+    "id": "e5f6g7h8",
+    "type": "expense",
+    "amount": "180.50",
+    "category": "Food",
+    "date": "2026-10-05",
+    "description": "College canteen lunch",
+    "payment_method": "UPI",
+    "tags": ["college", "food"],
+    "notes": "",
+    "created_at": "2026-10-05T13:30:00",
+    "updated_at": "2026-10-05T13:30:00"
+  },
+  {
+    "id": "i9j0k1l2",
+    "type": "expense",
+    "amount": "45.00",
+    "category": "Transportation",
+    "date": "2026-10-06",
+    "description": "Bus pass top-up",
+    "payment_method": "Cash",
+    "tags": ["commute"],
+    "notes": "",
+    "created_at": "2026-10-06T08:00:00",
+    "updated_at": "2026-10-06T08:00:00"
+  },
+  {
+    "id": "m3n4o5p6",
+    "type": "expense",
+    "amount": "1200.00",
+    "category": "Education",
+    "date": "2026-10-08",
+    "description": "Online course subscription",
+    "payment_method": "Credit Card",
+    "tags": ["learning"],
+    "notes": "Python advanced course",
+    "created_at": "2026-10-08T20:00:00",
+    "updated_at": "2026-10-08T20:00:00"
+  },
+  {
+    "id": "q7r8s9t0",
+    "type": "expense",
+    "amount": "499.00",
+    "category": "Subscriptions",
+    "date": "2026-10-10",
+    "description": "Streaming service",
+    "payment_method": "UPI",
+    "tags": ["entertainment"],
+    "notes": "",
+    "created_at": "2026-10-10T11:00:00",
+    "updated_at": "2026-10-10T11:00:00"
+  }
+]

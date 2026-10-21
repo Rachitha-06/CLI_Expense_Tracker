@@ -1,0 +1,3 @@
+# PocketLedger has no third-party runtime dependencies.
+# All functionality uses the Python standard library.
+# Python 3.11+ is required.
